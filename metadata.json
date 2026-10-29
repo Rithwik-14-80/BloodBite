@@ -1,0 +1,6 @@
+{
+  "name": "BloodBite",
+  "description": "BloodBite translates blood test reports into clear clinical summaries and pairs them with a 255-dish Indian nutrition reference, Telugu & English voice readout, and camera plate scanning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
