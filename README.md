@@ -78,9 +78,8 @@ npm run dev
 👤 ** G. Rithwik **  
 *Full-Stack Developer & AI Enthusiast*
 
-* 🌐 **Portfolio:** [Link to your portfolio website]
 * 💼 **LinkedIn:** [Link to your LinkedIn profile]
-* 🐙 **GitHub:** [Link to your GitHub profile]
+* 🐙 **GitHub:** [Rithwik-14-80]
 * ✉️ **Email:** [rithwik.14.80@gmail.com]
 
 > *"Building technology that empowers individuals to take control of their health through data and AI."* 💡
